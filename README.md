@@ -1,2 +1,0 @@
-# AI_Content_Creation_App
-AI_Content_Creation_App
